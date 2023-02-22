@@ -1,0 +1,123 @@
+{
+	"players": [
+		{
+			"name": "Thibaut Courtois",
+			"back-name": "Courtois",
+			"back-number": 1,
+			"position": "Goalkeeper",
+			"play-time": 25
+		},
+		{
+			"name": "Andriy Lunin",
+			"back-name": "Lunin",
+			"back-number": 13,
+			"position": "Goalkeeper",
+			"play-time": 11
+		},
+		{
+			"name": "Dani Carvajal",
+			"back-name": "Carvajal",
+			"back-number": 2,
+			"position": "Defender",
+			"play-time": 26
+		},
+		{
+			"name": "Eder Militao",
+			"back-name": "Militao",
+			"back-number": 3,
+			"position": "Defender",
+			"play-time": 28
+		},
+		{
+			"name": "David Alaba",
+			"back-name": "Alaba",
+			"back-number": 4,
+			"position": "Defender",
+			"play-time": 28
+		},
+		{
+			"name": "Antonio Rudiger",
+			"back-name": "Rudiger",
+			"back-number": 22,
+			"position": "Defender",
+			"play-time": 31
+		},
+		{
+			"name": "Nacho",
+			"back-name": "Nacho",
+			"back-number": 6,
+			"position": "Defender",
+			"play-time": 24
+		},
+		{
+			"name": "Lucas Vazquez",
+			"back-name": "Lucas",
+			"back-number": 17,
+			"position": "Defender",
+			"play-time": 15
+		},
+		{
+			"name": "Ferland Mendy",
+			"back-name": "Mendy",
+			"back-number": 23,
+			"position": "Defender",
+			"play-time": 24
+		},
+		{
+			"name": "Toni Kroos",
+			"back-name": "Kroos",
+			"back-number": 8,
+			"position": "Midfielder",
+			"play-time": 30
+		},
+		{
+			"name": "Luka Modric",
+			"back-name": "Modric",
+			"back-number": 10,
+			"position": "Midfielder",
+			"play-time": 31
+		},
+		{
+			"name": "Eduardo Camavinga",
+			"back-name": "Camavinga",
+			"back-number": 12,
+			"position": "Midfielder",
+			"play-time": 35
+		},
+		{
+			"name": "Federico Valverde",
+			"back-name": "Valverde",
+			"back-number": 15,
+			"position": "Midfielder",
+			"play-time": 35
+		},
+		{
+			"name": "Aurielien Tchouameni",
+			"back-name": "Tchouameni",
+			"back-number": 18,
+			"position": "Midfielder",
+			"play-time": 26
+		},
+		{
+			"name": "Karim Benzema",
+			"back-name": "Benzema",
+			"back-number": 9,
+			"position": "Forward",
+			"play-time": 23
+		},
+		{
+			"name": "Vinicius JR.",
+			"back-name": "Vinicius",
+			"back-number": 20,
+			"position": "Forward",
+			"play-time": 34
+		},
+		{
+			"name": "Rodrygo",
+			"back-name": "Rodrygo",
+			"back-number": 21,
+			"position": "Forward",
+			"play-time": 34
+		}
+	]
+}
